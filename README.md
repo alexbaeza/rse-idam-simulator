@@ -132,3 +132,4 @@ Do same operation than above but using these swaggers endpoints from any browser
 - http://localhost:5556/swagger-ui.html#/idam-simulator-controller/getOpenIdTokenUsingPOST
 
 ## License
+
